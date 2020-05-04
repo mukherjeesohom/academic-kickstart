@@ -18,9 +18,5 @@ featured: true
 url_pdf: "https://ieeexplore.ieee.org/document/8929285"
 
 # Featured image. To use, add an image named `featured.jpg/png` to your publication's folder. 
-image:
-  caption: 'Scalograms of fault signals.'
-  focal_point: ""
-  preview_only: false
 +++
 
