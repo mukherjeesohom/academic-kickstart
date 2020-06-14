@@ -22,9 +22,9 @@ bio: My research interest lies in Computer Vision, Machine Learning, Deep Learni
 
 interests:
 - Optimization
-- Computer Vision
-- Machine Learning
-- Deep Learning 
+- Mathematics of High-Dimensional Data
+- Machine Learning and Deep Learning Theory
+- Statistical Signal Processing and Information Theory
 
 
 education:
